@@ -1,13 +1,13 @@
 # 🧠 Agentic Orchestrator
 
-**Agentic Orchestrator** is a lightweight, command-line utility that helps you build, manage, and invoke AI agents, tools, and workflows using LangChain and LangGraph. It's ideal for prototyping agent-based systems and coordinating tool usage in a modular way.
+Agentic Orchestrator is a lightweight command-line tool for building, managing, and executing AI agents, tools, and workflows using LangChain and LangGraph. It’s ideal for rapid prototyping and orchestration of agent-driven workflows.
 
 ---
 
 ## ⚙️ Features
 
 - 🧰 **Create Agents** with assigned tools
-- 🔧 **Define Tools** using Python code in the correct format (refer this)
+- 🔧 **Define Tools** using Python code in the correct format (refer [this](https://github.com/pratham-jaiswal/agentic-orchestrator/blob/main/sample_codes/README.md))
 - 🔗 **Map Tools to Agents** to extend their functionality
 - 🧬 **Create Workflows** combining agents for specific tasks
 - 🚀 **Invoke Workflows** directly from the CLI
