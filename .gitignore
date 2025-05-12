@@ -1,2 +1,5 @@
 venv/
 .env
+tools/
+__pycache__/
+*.ipynb
